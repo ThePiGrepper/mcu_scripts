@@ -1,1 +1,3 @@
 A series of 'useful' scripts to automate tiresome tasks
+
+- mcu_createProject.sh : creates a new project hierarchy for a particular MCU.
